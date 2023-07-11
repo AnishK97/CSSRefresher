@@ -1,1 +1,1 @@
-(./design/desktop-preview.jpg)
+![Design preview for the CSS Refresher](./design/desktop-preview.jpg)
